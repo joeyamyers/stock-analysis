@@ -12,14 +12,15 @@ The original goal of undertaking this analysis is to help Steve's parents make a
 Stock returns in 2017 were generally positive as all but "TERP" produced positive returns. Conversly in 2018, the selected green energy stocks mostly had a down year, as only "ENPH" and "RUN" generated positive returns. The stock Steve's parents selected, "DQ", outperformed the selected market in 2017 generating an outstanding return of 199.4%, but produced negative returns in 2018. They should be cautious in investing in "DQ" in the future.
 
 ### Original script vs Refactored Script:
-Original script runtime:
+####Original script runtime:
 ![Original_script_17](https://user-images.githubusercontent.com/96351306/149578797-6bc17976-662f-4453-b773-94a5100d4784.png)
 ![Original_script_18](https://user-images.githubusercontent.com/96351306/149578817-0a1a7939-7532-43e0-b6b2-0b5e835c5b20.png)
-Refactored script runtime:
+
+####Refactored script runtime:
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/96351306/149578856-2e249b7e-2c50-4cc2-8239-4186a5b186a9.png)
 <img width="246" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/96351306/149578879-e724618f-3da7-4d55-b5ce-afafe60075d2.png">
 
-From the images above, it is apparent that the refactoring process was a success. The refactored script in both years ran was executed quicker than the original script, while accomplishing the same stock analysis.
+From the images above, it is apparent that the refactoring process was a success. The refactored script lowered the execution time in both 2017 and 2018 by nearly .1 of a second all while accomplishing the same stock analysis.
 
 
 ## Summary: In a summary statement, address the following questions.
