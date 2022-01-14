@@ -2,7 +2,7 @@
 
 ## Overview
 ### Purpose:
-The goal of undertaking this analysis is to help Steve make an informed investment decision regarding tweleve different stocks. I analyzed stock performance for the years 2017 and 2018. After performing this analysis for Steve, he asked to refactor the original code in orer to improve the performance in thhe csae hhe wanted to analyze more than twelve stocks. 
+The original goal of undertaking this analysis is to help Steve's parents make an informed investment decision regarding tweleve different green energy stocks. I used stock performance data from 2017 and 2018 to accomplish the analysis and provided Steve a workbook to analyze a dataset at a click of a button. After successfully performing this analysis for Steve, he wants to expand the dataset and to refactor the original code in order to improve the performance for future stock analyses. Refactoring the code will not change the the content of the code, but only improve its performance.
 
 ## Results
 ### Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
