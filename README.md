@@ -15,6 +15,7 @@ Explain the purpose of this analysis.
 ### Refactored script:
 ![refactored17](https://user-images.githubusercontent.com/96351306/149577145-15743576-1188-4a55-93e8-1931f12ee3f8.png)
 
+<img width="246" alt="refactored18" src="https://user-images.githubusercontent.com/96351306/149577277-de038f0f-61ff-4f19-8dd6-f248d74a160e.png">
 
 
 
