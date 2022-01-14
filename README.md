@@ -2,7 +2,7 @@
 
 ## Overview
 ### Purpose:
-Explain the purpose of this analysis.
+The goal of undertaking this analysis is to help Steve make an informed investment decision regarding tweleve different stocks. I analyzed stock performance for the years 2017 and 2018. After performing this analysis for Steve, he asked to refactor the original code in orer to improve the performance in thhe csae hhe wanted to analyze more than twelve stocks. 
 
 ## Results
 ### Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
@@ -24,4 +24,6 @@ Explain the purpose of this analysis.
 
 ## Summary: In a summary statement, address the following questions.
 ### Advantages or disadvantages of refactoring code?
+Refactoring code can be likened to proofreading an essay to make it more clear and concise. It does not change the funcitionality or purpose of the original script, however it makes the code more efficient. Making code more efficient can mean several things like making the code easier to read for other users through improving the logic of the code and taking fewer steps and also by using less memory.
+
 ### How do these pros and cons apply to refactoring the original VBA script?
