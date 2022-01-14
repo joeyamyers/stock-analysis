@@ -29,4 +29,4 @@ Refactoring code can be likened to proofreading an essay to make it more clear a
 Refactoring can become a disadvantage if the integrity of the code is not maintained throughout the process. Refactoring, like in this instance, can be quite time consuming and may not be worth the investment of time.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
-
+In this case, the script is now more efficient and can handle larger datasets, even though it took more steps to accomplish the refactor. However, the refactoring process was not a disadvatage as the refactor was well worth the investment of time and the integrity of the code was not altered.
