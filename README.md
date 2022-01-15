@@ -9,7 +9,7 @@ The original goal of undertaking this analysis is to help Steve's parents make a
 <img width="358" alt="StockAnalysis2017" src="https://user-images.githubusercontent.com/96351306/149578754-83160851-5159-4e2b-8156-a997de91a884.png">
 <img width="353" alt="StockAnalysis2018" src="https://user-images.githubusercontent.com/96351306/149578765-2764e9bb-d156-4b1f-b1b4-d849481ad2dd.png">
 
-Stock returns in 2017 were generally positive as all but "TERP" produced positive returns. Conversly in 2018, the selected green energy stocks mostly had a down year, as only "ENPH" and "RUN" generated positive returns. The stock Steve's parents selected, "DQ", outperformed the selected market in 2017 generating an outstanding return of 199.4%, but produced negative returns in 2018. They should be cautious in investing in "DQ" in the future.
+Stock returns in 2017 were generaly very good overall despite "TERP" producing the sole negative return. Conversely in 2018, the 12 selected green energy stocks mostly had a down year, as only "ENPH" and "RUN" generated positive returns. The stock Steve's parents selected, "DQ", outperformed the selected market in 2017 generating an outstanding return of 199.4%, but produced negative returns in 2018. They should be cautious in investing in "DQ" in the future.
 
 ### Original script vs Refactored Script:
 #### Original script runtime:
