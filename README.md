@@ -2,7 +2,7 @@
 
 ## Overview
 ### Purpose:
-The original goal of undertaking this analysis was to help Steve's parents make an informed investment decision regarding twelve different green energy stocks. I used stock performance data from 2017 and 2018 to accomplish the analysis and provided Steve a workbook to analyze a dataset at a click of a button. After successfully performing this analysis for Steve, he wanted me to refactor the code to improve its effciency in case he ever wanted to expand the dataset to include the entire stock market. Refactoring the code will not change the contents of the code, but only improve its performance.
+The original goal in undertaking this analysis was to help Steve's parents make an informed investment decision regarding twelve different green energy stocks. I used stock performance data from 2017 and 2018 to accomplish the analysis and provided Steve a workbook to analyze a dataset at a click of a button. After successfully performing this analysis for Steve, he wanted me to refactor the code to improve its effciency in case he ever wanted to expand the dataset to include the entire stock market. Refactoring the code will not change the contents of the code, but only improve its performance.
 
 ## Results
 ### Stock Performance
