@@ -23,11 +23,11 @@ Stock returns in 2017 were generally very good overall despite "TERP" producing 
 From the images above, it is apparent that the refactoring process was a success. The refactored script lowered the execution time in both 2017 and 2018 by nearly a tenth of a second all while accomplishing the same stock analysis.
 
 
-## Summary: In a summary statement, address the following questions.
+## Summary
 ### Advantages or disadvantages of refactoring code?
 Refactoring code can be likened to proofreading an essay to make it more clear and concise. It does not change the funcitionality or purpose of the original script, however the advantages come from making the code more efficient. Making code more efficient can mean several things like making the code easier to read for other users through improving the logic of the code and taking fewer steps. Refactoring to using less memory is also a significant advantage.
 
 Refactoring can become a disadvantage if the integrity of the code is not maintained throughout the process. Refactoring can also be quite time consuming and may not be worth the investment of time.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
-In this case, the script is now more efficient and can handle larger datasets, even though it took more steps to accomplish the refactor. However, the refactoring process was not a disadvatage as the refactor was well worth the investment of time and the integrity of the code was not altered.
+In this case, the script is now more efficient and can handle larger datasets, even though it took more steps to accomplish the refactor. However, the refactoring process was not a disadvantage as the refactor was well worth the investment of time and the integrity of the code was not altered.
